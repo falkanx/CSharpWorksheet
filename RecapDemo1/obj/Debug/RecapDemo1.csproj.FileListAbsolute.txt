@@ -1,0 +1,21 @@
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.Cache
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
