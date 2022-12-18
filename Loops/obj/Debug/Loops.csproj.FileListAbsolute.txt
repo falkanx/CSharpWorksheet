@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\Engin\source\repos\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\obj\Debug\Loops.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\obj\Debug\Loops.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\bin\Debug\Loops.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Loops\bin\Debug\Loops.pdb
