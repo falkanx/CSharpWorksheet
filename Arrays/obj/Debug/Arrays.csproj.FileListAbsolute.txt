@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\Engin\source\repos\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
