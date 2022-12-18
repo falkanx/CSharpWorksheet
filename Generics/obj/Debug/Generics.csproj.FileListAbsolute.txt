@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\Engin\source\repos\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\Engin\source\repos\CSharpCourse\Generics\obj\Debug\Generics.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\bin\Debug\Generics.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\bin\Debug\Generics.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\obj\Debug\Generics.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Generics\obj\Debug\Generics.pdb

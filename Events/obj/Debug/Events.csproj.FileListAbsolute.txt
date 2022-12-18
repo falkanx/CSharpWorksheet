@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Events\bin\Debug\Events.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Events\bin\Debug\Events.exe
+C:\Users\Engin\source\repos\CSharpCourse\Events\bin\Debug\Events.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.exe
+C:\Users\Engin\source\repos\CSharpCourse\Events\obj\Debug\Events.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\bin\Debug\Events.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\bin\Debug\Events.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\bin\Debug\Events.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\obj\Debug\Events.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Events\obj\Debug\Events.pdb

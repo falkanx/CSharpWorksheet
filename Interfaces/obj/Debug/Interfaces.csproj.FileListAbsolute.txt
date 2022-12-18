@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Engin\source\repos\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb
