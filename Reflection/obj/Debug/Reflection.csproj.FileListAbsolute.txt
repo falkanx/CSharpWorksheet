@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\bin\Debug\Reflection.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\bin\Debug\Reflection.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\bin\Debug\Reflection.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\obj\Debug\Reflection.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Reflection\obj\Debug\Reflection.pdb

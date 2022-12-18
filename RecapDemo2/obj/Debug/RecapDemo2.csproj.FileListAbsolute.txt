@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\Engin\source\repos\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb
