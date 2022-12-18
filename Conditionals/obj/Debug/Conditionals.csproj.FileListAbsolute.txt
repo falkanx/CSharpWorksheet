@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.csprojResolveAssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb

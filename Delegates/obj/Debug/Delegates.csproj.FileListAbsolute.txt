@@ -1,0 +1,15 @@
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\Engin\source\repos\CSharpCourse\Delegates\obj\Debug\Delegates.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+D:\FURKAN YAZILIM\Dokumanlar\36_ Proje Kodları\CSharpCourse\Delegates\obj\Debug\Delegates.pdb
