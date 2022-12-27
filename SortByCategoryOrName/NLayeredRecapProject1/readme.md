@@ -3,6 +3,7 @@ I used the Northwind Database.
 I used entityframework, fluentvalidation, Ninject as nuget.
 
 ------------Table Of Contents--------------
+I worked according to the principle of OOP and SOLID Work.
 EntityFramework
 Business|DataAccess|Entities|WebFormsUI layers
 Code Smell Refactoring
